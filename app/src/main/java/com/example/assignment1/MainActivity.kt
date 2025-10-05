@@ -84,7 +84,7 @@ fun StudentInfoScreen(modifier: Modifier = Modifier) {
 
         Text(text = "Vincent Polanco 828045823 ")
         Text(text = "Erl-John Tauto-An 890165608")
-        Text(text = "Name CWID")
+        Text(text = "Loc Luong 885478859")
 
         Spacer(Modifier.height(16.dp))
 
